@@ -7,5 +7,9 @@ namespace Web.Model
 {
     public class Topping
     {
+        public String toppingname { get; set; }
+        public int toppingIDs { get; set; }
+
+        public ICollection<CustomOrders> customOrders { get; set; }
     }
 }

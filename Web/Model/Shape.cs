@@ -7,5 +7,10 @@ namespace Web.Model
 {
     public class Shape
     {
+        public int shapeIDs { get; set; }
+        public String shapenames { get; set; }
+
+        public ICollection<CustomOrders> customOrders { get; set; }
+
     }
 }

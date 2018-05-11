@@ -7,5 +7,9 @@ namespace Web.Model
 {
     public class Sauces
     {
+        public int saucesIDs { get; set; }
+        public String saucesname { get; set; }
+
+        public ICollection<CustomOrders> customOrders { get; set; }
     }
 }
