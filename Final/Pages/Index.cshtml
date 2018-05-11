@@ -1,0 +1,76 @@
+﻿@*
+    Marlin Benjamin
+    Thang Giang
+    Tristan Sizik
+    Alfonso Solis
+*@
+
+
+
+@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";@*Home Page*@
+}
+
+
+<div class="jumbotron">
+    <h1> Pizza Creator </h1> @*Tittle*@
+</div>
+
+<body>
+    <bg color="#787878"></bg>@*Backround color but its not working and don't know why*@
+</body>
+<div class="row">
+    <div class="col-md-4 ">
+        <h2> Welcome to PizzaMaker</h2> @*Normal comment to great the customers*@
+    </div>
+    <div class=" col-md-4">
+    </div>
+</div>
+
+
+@*This is for an exsisting user to log in and edit or delte his/her order*@
+<p>If you already have created a pizza before and would like to edit or delete your order then login here!!!<br /><p />
+<p>         Email         and         Password<p />
+<p><textarea id="TextArea1" rows="1" cols="20"></textarea>   <textarea id="TextArea1" rows="1" cols="20"></textarea><p />
+<p><input id="Submit Order" type="button" value="Login" /> <p />
+
+
+@*This is for a new customer or new order*@
+@*Getting the info from the customer*@
+ First Name<br />
+<p><textarea id="TextArea1" rows="1" cols="20"></textarea><p>
+    Last Name<br />
+<p>
+    <textarea id="TextArea1" rows="1" cols="20"></textarea>
+<p>
+    Email Address<br />
+<p>
+    <textarea id="TextArea1" rows="1" cols="20"></textarea>
+<p>
+    Password<br />
+<p><textarea id="TextArea1" rows="1" cols="20"></textarea><p>
+
+    @*Images of diffrent shaps*@
+<p><img src="images/1.gif" alt="Sample Photo" /><img src="/images/2.jpg" alt="" /><img src="/images/3.jpg" alt="" /><img src="/images/4.png" alt="" /><img src="/images/5.png" alt="" /><img src="/images/6.gif" alt="" /></p>
+<p>
+
+    @*Select button with diferent options for shapes*@
+    <select id="Options">
+        <option>1</option>
+        <option>2</option>
+        <option>3</option>
+        <option>4</option>
+        <option>5</option>
+        <option>6</option>
+    </select>
+<p />
+
+@*extra comments from the customer*@
+<p> Any comments? or requesrt? <br /><p />
+
+<p><textarea id="TextArea1" rows="2" cols="20"></textarea> <p />
+
+@*Submit order button*@
+<p><input id="Submit Order" type="button" value="Submit Order" /> <p />

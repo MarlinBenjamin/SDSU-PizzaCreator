@@ -1,0 +1,11 @@
+C:\Users\Marlin\Documents\GitHub\SDSU-PizzaCreator\Final\bin\Debug\netcoreapp2.0\Final.deps.json
+C:\Users\Marlin\Documents\GitHub\SDSU-PizzaCreator\Final\bin\Debug\netcoreapp2.0\Final.runtimeconfig.json
+C:\Users\Marlin\Documents\GitHub\SDSU-PizzaCreator\Final\bin\Debug\netcoreapp2.0\Final.runtimeconfig.dev.json
+C:\Users\Marlin\Documents\GitHub\SDSU-PizzaCreator\Final\bin\Debug\netcoreapp2.0\Final.dll
+C:\Users\Marlin\Documents\GitHub\SDSU-PizzaCreator\Final\bin\Debug\netcoreapp2.0\Final.pdb
+C:\Users\Marlin\Documents\GitHub\SDSU-PizzaCreator\Final\obj\Debug\netcoreapp2.0\Final.csprojResolveAssemblyReference.cache
+C:\Users\Marlin\Documents\GitHub\SDSU-PizzaCreator\Final\obj\Debug\netcoreapp2.0\Final.csproj.CoreCompileInputs.cache
+C:\Users\Marlin\Documents\GitHub\SDSU-PizzaCreator\Final\obj\Debug\netcoreapp2.0\Final.AssemblyInfoInputs.cache
+C:\Users\Marlin\Documents\GitHub\SDSU-PizzaCreator\Final\obj\Debug\netcoreapp2.0\Final.AssemblyInfo.cs
+C:\Users\Marlin\Documents\GitHub\SDSU-PizzaCreator\Final\obj\Debug\netcoreapp2.0\Final.dll
+C:\Users\Marlin\Documents\GitHub\SDSU-PizzaCreator\Final\obj\Debug\netcoreapp2.0\Final.pdb
