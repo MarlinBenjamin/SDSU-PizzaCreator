@@ -1,10 +1,10 @@
 ﻿using System.Threading.Tasks;
-using ContactManager.Data;
-using ContactManager.Models;
+using Web.Data;
+using Web.Model;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Authorization.Infrastructure;
 using Microsoft.AspNetCore.Identity;
-
+using Web.Data;
 namespace Web.wwwroot.Authorize
 {
     public class ContactIsOwnerAuthorizationHandler

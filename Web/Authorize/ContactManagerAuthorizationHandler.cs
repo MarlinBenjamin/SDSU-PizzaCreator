@@ -1,8 +1,9 @@
 ﻿using System.Threading.Tasks;
-using Web.wwwroot.Models;
+using Web.Model;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Authorization.Infrastructure;
 using Microsoft.AspNetCore.Identity;
+using Web.Data;
 
 namespace Web.wwwroot.Authorize
 {
