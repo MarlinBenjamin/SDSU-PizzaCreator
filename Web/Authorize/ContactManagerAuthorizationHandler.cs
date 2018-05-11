@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Authorization.Infrastructure;
 using Microsoft.AspNetCore.Identity;
 using Web.Data;
 
-namespace Web.wwwroot.Authorize
+namespace Web.Authorize
 {
     public class ContactManagerAuthorizationHandler :
         AuthorizationHandler<OperationAuthorizationRequirement, Contact>
