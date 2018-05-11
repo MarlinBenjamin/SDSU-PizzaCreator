@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using Web.Authorize;
 using Web.Data;
 using Web.Model;
+using Microsoft.AspNetCore.Authorization.Infrastructure;
 
 
 namespace Web.Authorize

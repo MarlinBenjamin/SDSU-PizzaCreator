@@ -5,6 +5,8 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Authorization.Infrastructure;
 using Microsoft.AspNetCore.Identity;
 using Web.Data;
+
+
 namespace Web.Authorize
 {
     public class ContactIsOwnerAuthorizationHandler
