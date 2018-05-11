@@ -14,6 +14,6 @@ namespace Web.Model
         public int addressIDs { get; set; }
 
         public ICollection<CustomOrders> customOrders { get; set; }
-        public Adress Adress { get; set; }
+        public Address Adress { get; set; }
     }
 }

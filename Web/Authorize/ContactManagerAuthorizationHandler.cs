@@ -1,5 +1,5 @@
 ﻿using System.Threading.Tasks;
-using ContactManager.Models;
+using Web.wwwroot.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Authorization.Infrastructure;
 using Microsoft.AspNetCore.Identity;

@@ -25,7 +25,7 @@ namespace Web.Data
             modelBuilder.Entity<Customers>().ToTable("Customers");
             modelBuilder.Entity<Topping>().ToTable("Toppings");
             modelBuilder.Entity<Sauces>().ToTable("Sauces");
-            modelBuilder.Entity<Adress>().ToTable("Address");
+            modelBuilder.Entity<Address>().ToTable("Address");
         }
         
     }
